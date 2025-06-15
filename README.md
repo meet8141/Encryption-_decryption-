@@ -35,6 +35,9 @@ A simple Java-based command-line application that allows users to **encrypt** an
    java Encryption_Decryption
 
 
+
+
+---
 ## 🧠 How It Works
 Simple Encryption
 Shifts alphabetic characters by key % 26
@@ -50,12 +53,18 @@ Decryption
 Reverses the steps based on the method (Simple or Reverse)
 
 
+
+---
 ## Example 
 ![image](https://github.com/user-attachments/assets/ad676687-13da-4c0d-b509-ae8f1a42f329)
 
 
+
+---
 ## 👨‍💻 Author
 Meet Patel
 
+
+---
 ##📄 License
 This project is open source and free to use for learning and non-commercial purposes.
